@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+Prior to starting my PhD study in Biostatistics at Johns Hopkins, I earned my B.S. in Computational Biology from UCLA and M.S. in Statistics from Stanford University. During this process I developed strong interests in statistical methods for biomedical data, single-cell analysis, and machine learning.
+
+I enjoy working at the intersection of statistics, computation, and biology, and I am especially excited about problems involving high-dimensional omics data. Recently, I have become particularly interested in the integration of AI/ML with omics data, and I hope to explore the potential of interpretable and robust machine learning methods for biological discovery during my PhD study.
+
+## Education
+
+**Johns Hopkins University** · _Baltimore, MD_<br>
+PhD in Biostatistics · _Aug 2025 – Present_  
+
+**Stanford University** · _Stanford, CA_<br>
+M.S. in Statistics · _Sep 2023 – Jun 2025_  
+
+**University of California, Los Angeles** · _Los Angeles, CA_<br> 
+B.S. in Computational and Systems Biology · _Sep 2019 – Jun 2023_
+
+
+## Experience
+
+**Moderna** · _Cambridge, MA_  
+Bioinformatics Software Engineering Intern · _Jun 2024 – Aug 2024_ 
+
+**Boston Children’s Hospital** · _Boston, MA_<br> 
+Bioinformatics Intern · _Jun 2023 – Sep 2023_
